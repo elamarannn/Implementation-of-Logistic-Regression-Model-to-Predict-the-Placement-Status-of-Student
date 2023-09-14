@@ -80,29 +80,29 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-# Placement Data:
+### Placement Data:
 ![Output](4a.png)
-# After Removing Column:
+### After Removing Column:
 ![Output](4b.png)
-# isnull():
+### isnull():
 ![Output](4c.png)
-# Checking for duplicates:
+### Checking for duplicates:
 ![Output](4d.png)
-# Print Data:
+### Print Data:
 ![Output](4e.png)
-# X :
+### X :
 ![Output](4f.png)
-# Y :
+### Y :
 ![Output](4g.png)
-# Y_Prediction :
+### Y_Prediction :
 ![Output](4h.png)
-# Acuracy Score:
+### Acuracy Score:
 ![Output](4i.png)
-# Confusion Matrix;
+### Confusion Matrix;
 ![Output](4j.png)
-# Classofication Report:
+### Classofication Report:
 ![Output](4k.png)
-# Prediction of LR:
+### Prediction of LR:
 ![Output](4l.png)
 
 
